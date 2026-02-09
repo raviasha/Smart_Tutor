@@ -1,0 +1,30 @@
+# Backend
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+backend/.env
+backend/venv/
+*.mp3
+*.wav
+*.webm
+
+# Frontend
+node_modules/
+.next/
+out/
+frontend/.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+
+# Playwright
+.playwright-mcp/

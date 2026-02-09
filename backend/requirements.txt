@@ -1,0 +1,22 @@
+# FastAPI & Server
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+python-dotenv==1.0.1
+
+# Supabase
+supabase==2.7.2
+
+# OpenAI (Whisper API + GPT-4o-mini)
+openai==1.51.0
+
+# YouTube
+yt-dlp==2024.10.7
+
+# Utilities
+httpx==0.27.2
+pydantic==2.9.2
+pydantic-settings==2.5.2
+
+# SSE streaming
+sse-starlette==2.1.3
